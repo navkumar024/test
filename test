@@ -1,0 +1,34 @@
+########################OSE 3.6 Environmnet###########################################################
+group1openshdiftgp (apsrp03703.uhc.com,,) (apsrp03704.uhc.com,,) (apsrp03702.uhc.com,,)  (apsrp03951.uhc.com,,) (apsrp03952.uhc.com,,) (apsrp03953.uhc.com,,)
+(apsrp03832.uhc.com,,) (apsrp03808.uhc.com,,) (apsrp03809.uhc.com,,) (apsrp03810.uhc.com,,) (apsrp03811.uhc.com,,) (apsrp03812.uhc.com,,) (apsrp03813.uhc.com
+,,) (apsrp03954.uhc.com,,) (apsrp03955.uhc.com,,) (apsrp03958.uhc.com,,) (apsrp03959.uhc.com,,) (apsrp03965.uhc.com,,) (apsrp04063.uhc.com,,) (apsrp07042.uhc
+.com,,) (apsrp07054.uhc.com,,) (apsrp07058.uhc.com,,) (apsrp07109.uhc.com,,) (apsrp04216.uhc.com,,) (apsrp03965.uhc.com,,) (apsrp04063.uhc.com,,) (apsrp07126
+.uhc.com,,) (apsrp07145.uhc.com,,) (apsrp07146.uhc.com,,) (apsrp07970.uhc.com,,) (apsrp07971.uhc.com,,) (apsrp07968.uhc.com,,) (apsrp07979.uhc.com,,) (apsrp0
+8163.uhc.com,,) (apsrp08413.uhc.com,,) (apsrp08411.uhc.com,,) (apsrp08405.uhc.com,,) (apsrp08404.uhc.com,,) (apsrp08402.uhc.com,,) (apsrp08400.uhc.com,,) (ap
+srp08393.uhc.com,,) (apsrp08437.uhc.com,,) (apsrp08400.uhc.com,,) (apsrp08393.uhc.com,,) (apsrp08437.uhc.com,,) (apvrp18387.uhc.com,,) (apvrp18386.uhc.com,,)
+ (apvrp18385.uhc.com,,) (apvrp18384.uhc.com,,) (apvrp18378.uhc.com,,) (apvrp18377.uhc.com,,) (apvrp18376.uhc.com,,) (apvrp18375.uhc.com,,) (apvrp18484.uhc.co
+m,,) (apvrp18474.uhc.com,,) (apvrp18472.uhc.com,,) (apvrp18471.uhc.com,,) (apvrp18470.uhc.com,,) (apvrp18469.uhc.com,,) (apvrp18536.uhc.com,,) (apvrp30480.uh
+c.com,,) (apvrp30481.uhc.com,,) (apvrp30482.uhc.com,,) (apvrp30483.uhc.com,,) (apvrp30501.uhc.com,,) (apvrp30502.uhc.com,,) (apvrp30503.uhc.com,,) (apvrp3050
+7.uhc.com,,) (apvrp30508.uhc.com,,) (apvrp30509.uhc.com,,) (apvrp30510.uhc.com,,) (apvrp30511.uhc.com,,) (apvrp30512.uhc.com,,) (apvrp30513.uhc.com,,) (apvrp
+30514.uhc.com,,) (apvrp30535.uhc.com,,)
+
+
+
+
+
+########################Environmnet###########################################################
+group1openshiftddd (dbslp1632.uhc.com,,) (dbslp1633.uhc.com,,) (dbslp1634.uhc.com,,) (dbslp1635.uhc.com,,) (dbslp1636.uhc.com,,) (dbslp1637.uhc.com,,) (dbslp
+1638.uhc.com,,) (dbslp1639.uhc.com,,) (dbslp1640.uhc.com,,) (dbslp1641.uhc.com,,) (dbslp1642.uhc.com,,) (dbslp1643.uhc.com,,) (dbslp1644.uhc.com,,) (dbslp164
+5.uhc.com,,) (dbslp1646.uhc.com,,) (dbslp1647.uhc.com,,) (dbslp1648.uhc.com,,) (dbslp1649.uhc.com,,) (dbslp1650.uhc.com,,) (dbslp1651.uhc.com,,) (dbslp1652.u
+hc.com,,) (ctc2hz1-01-s03.uhc.com,,) (ctc2hz1-01-s04.uhc.com,,) (dbslp1698.uhc.com,,) (dbslp1699.uhc.com,,) (dbslp1631.uhc.com,,) (dbslp1698.uhc.com,,) (dbsl
+p1699.uhc.com,,) (dbslp1631.uhc.com,,) (ctc2hz1-01-s20.uhc.com,,) (ctc2hz1-01-s21.uhc.com,,) (ctc2hz1-01-s22.uhc.com,,) (ctc2hz1-01-s23.uhc.com,,) (ctc2hz1-0
+1-s24.uhc.com,,) (ctc2hz1-01-s25.uhc.com,,) (ctc2hz1-01-s26.uhc.com,,) (ctc2hz1-01-s27.uhc.com,,) (ctc2hz1-01-s28.uhc.com,,) (ctc2hz1-01-s29.uhc.com,,) (ctc2
+hz1-01-s30.uhc.com,,) (ctc2hz1-01-s31.uhc.com,,) (apvrp18286.uhc.com,,) (apvrp18287.uhc.com,,) (apvrp18290.uhc.com,,) (apvrp18291.uhc.com,,) (apvrp18296.uhc.
+com,,) (apvrp18380.uhc.com,,) (apvrp18381.uhc.com,,) (apvrp18383.uhc.com,,) (apvrp18388.uhc.com,,) (apvrp18390.uhc.com,,) (ctc2hz1-02-s02.uhc.com,,) (ctc2hz1
+-02-s03.uhc.com,,) (ctc2hz1-02-s04.uhc.com,,)(ctc2hz1-02-s01.uhc.com,,) (dbslp1651.uhc.com,,) (ctc2hz1-02-s05.uhc.com,,) (ctc2hz1-02-s10.uhc.com,,) (apvrp307
+81.uhc.com,,) (apvrp30782.uhc.com,,) (apvrp30783.uhc.com,,) (apvrp30784.uhc.com,,) (apvrp30785.uhc.com,,) (apvrp30786.uhc.com,,) (apvrp30787.uhc.com,,) (apvr
+p30788.uhc.com,,) (apvrp30789.uhc.com,,) (apvrp30790.uhc.com,,) (apvrp30792.uhc.com,,) (apvrp30793.uhc.com,,) (apvrp30794.uhc.com,,) (apvrp30795.uhc.com,,) (
+apvrp30796.uhc.com,,) (apvrp30797.uhc.com,,) (apvrp30798.uhc.com,,) (apvrp30800.uhc.com,,) (apvrp30802.uhc.com,,) (apvrp30803.uhc.com,,) (apvrp30804.uhc.com,
+,) (apvrp30805.uhc.com,,) (apvrp30806.uhc.com,,) (apvrp30807.uhc.com,,) (apvrp30808.uhc.com,,) (apvrp30809.uhc.com,,) (apvrp30810.uhc.com,,) (apvrp30811.uhc.
+com,,) (apvrp30812.uhc.com,,) (apvrp30813.uhc.com,,) (apvrp30814.uhc.com,,) (apvrp30815.uhc.com,,) (apvrp30816.uhc.com,,) (apvrp30817.uhc.com,,)
+
